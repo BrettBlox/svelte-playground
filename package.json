@@ -1,5 +1,5 @@
 {
-  "name": "bloxy-clelia",
+  "name": "svelte-playground",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
